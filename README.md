@@ -118,4 +118,4 @@ Chętnie poznam problemy, które napotkaliście i umieszczę je w tym dokumencie
 ## Pomoc przy projekcie
 Gra została przygotowana z użyciem [LibreOffice Draw](https://www.libreoffice.org/). Jeśli chcesz, wykonaj fork repozytorium, przygotuj zmiany i zgłoś je jako poll request. Możesz też zgłosić issue z propozycjami zmian.
 
-Tłumaczenia są również mile widziane/
+Tłumaczenia są również mile widziane.
